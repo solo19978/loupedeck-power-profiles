@@ -87,12 +87,12 @@ The current downloadable Loupedeck Live profiles are organised by application:
 
 | Application | Profile |
 | --- | --- |
-| Google Chrome | [SOL Chrome — Visual Icon Edition](profiles/chrome/SOL_CHROME_VISUAL_ICON_EDITION.lp5) |
-| Visual Studio Code | [SOL VS Code — Visual Icon Edition](profiles/vscode/SOL_VSCODE_VISUAL_ICON_EDITION.lp5) |
-| Blender | [SOL Blender — Corrected Visual Icon Edition](profiles/blender/SOL_BLENDER_CORRECTED_VISUAL_ICON_EDITION.lp5) |
-| Spotify | [SOL Spotify — 4 Page](profiles/spotify/SOL_SPOTIFY_4_PAGE.lp5) |
-| Samplitude Suite 2025 | [SOL Samplitude — Real Icons Edition](profiles/samplitude/SOL_SAMPLITUDE_SUITE_2025_REAL_ICONS.lp5) |
-| DaVinci Resolve | [SOL DaVinci Resolve — 8 Page](profiles/davinci-resolve/SOL_DAVINCI_RESOLVE_8_PAGE.lp5) |
+| Google Chrome | [Loupedeck Power Profiles — Chrome](profiles/chrome/loupedeck-power-profiles-chrome.lp5) |
+| Visual Studio Code | [Loupedeck Power Profiles — VS Code](profiles/vscode/loupedeck-power-profiles-vscode.lp5) |
+| Blender | [Loupedeck Power Profiles — Blender](profiles/blender/loupedeck-power-profiles-blender.lp5) |
+| Spotify | [Loupedeck Power Profiles — Spotify](profiles/spotify/loupedeck-power-profiles-spotify.lp5) |
+| Samplitude Suite 2025 | [Loupedeck Power Profiles — Samplitude](profiles/samplitude/loupedeck-power-profiles-samplitude.lp5) |
+| DaVinci Resolve | [Loupedeck Power Profiles — DaVinci Resolve](profiles/davinci-resolve/loupedeck-power-profiles-davinci-resolve.lp5) |
 
 Click a profile above, then use **Download raw file** / **Raw** from GitHub to save the `.lp5` file before importing it into Loupedeck.
 
