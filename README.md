@@ -79,6 +79,23 @@ That transition is another reason I wanted to keep a maintained collection of us
 
 The hardware is still extremely capable. These profiles are about continuing to get as much value as possible from it.
 
+
+
+## Profiles available now
+
+The current downloadable Loupedeck Live profiles are organised by application:
+
+| Application | Profile |
+| --- | --- |
+| Google Chrome | [SOL Chrome — Visual Icon Edition](profiles/chrome/SOL_CHROME_VISUAL_ICON_EDITION.lp5) |
+| Visual Studio Code | [SOL VS Code — Visual Icon Edition](profiles/vscode/SOL_VSCODE_VISUAL_ICON_EDITION.lp5) |
+| Blender | [SOL Blender — Corrected Visual Icon Edition](profiles/blender/SOL_BLENDER_CORRECTED_VISUAL_ICON_EDITION.lp5) |
+| Spotify | [SOL Spotify — 4 Page](profiles/spotify/SOL_SPOTIFY_4_PAGE.lp5) |
+| Samplitude Suite 2025 | [SOL Samplitude — Real Icons Edition](profiles/samplitude/SOL_SAMPLITUDE_SUITE_2025_REAL_ICONS.lp5) |
+| DaVinci Resolve | [SOL DaVinci Resolve — 8 Page](profiles/davinci-resolve/SOL_DAVINCI_RESOLVE_8_PAGE.lp5) |
+
+Click a profile above, then use **Download raw file** / **Raw** from GitHub to save the `.lp5` file before importing it into Loupedeck.
+
 ## Compatibility
 
 These profiles are primarily created for the **Loupedeck Live**.
