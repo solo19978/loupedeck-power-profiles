@@ -1,5 +1,7 @@
 # Loupedeck Power Profiles
 
+![Loupedeck Power Profiles](assets/loupedeck-power-profiles-banner.jpg)
+
 **Powerful, ready-to-use Loupedeck Live profiles built to help you get more out of your hardware and spend less time rebuilding workflows from scratch.**
 
 ## Why I created this
